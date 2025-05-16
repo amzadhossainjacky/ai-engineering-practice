@@ -1,0 +1,9 @@
+{
+    "time": "2025-05-16T14:15",
+    "interval": 900,
+    "temperature": 29.2,
+    "windspeed": 4.9,
+    "winddirection": 163,
+    "is_day": 0,
+    "weathercode": 80
+}

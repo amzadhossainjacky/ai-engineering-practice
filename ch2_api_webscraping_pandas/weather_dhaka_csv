@@ -1,0 +1,2 @@
+time,interval,temperature,windspeed,winddirection,is_day,weathercode
+2025-05-16T14:30,900,29.1,4.3,156,0,80
