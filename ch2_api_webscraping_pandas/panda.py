@@ -28,21 +28,21 @@ data = [
 
 #read csv
 df = pd.read_csv('people_data.csv')
-# print(df)
+print(df)
 
 #is null check
 
-# print(df.isnull())
-# print(df.isnull().sum())
+print(df.isnull())
+print(df.isnull().sum())
 
 #duplicate value remove
 
-# df = df.drop_duplicates(inplace=True)
-# print(df)
+df = df.drop_duplicates(inplace=True)
+print(df)
 
 #remove row of any missing value
-# df.dropna(inplace=True)
-# print(df)
+df.dropna(inplace=True)
+print(df)
 
 
 #NaN replace with 0
